@@ -6,4 +6,5 @@
 
 Références relatives au cours:
 
+- [C](Documents/C.md)
 - [Normes](Documents/Norms.md)
