@@ -68,4 +68,18 @@ Appuyez sur la touche « Entrée (Enter) »:
 
 ### Librairie graphique
 
-...
+Pour installer la librairie graphique « SDL2 », saisissez l'instruction suivante:
+
+```
+pacman -S mingw-w64-x86_64-SDL2 mingw-w64-x86_64-SDL2_image mingw-w64-x86_64-SDL2_ttf
+```
+
+![13](Images/MSYS213.png)
+
+Appuyez sur la touche « Entrée (Enter) »:
+
+![14](Images/MSYS214.png)
+
+Appuyez sur la touche « Entrée (Enter) »:
+
+![15](Images/MSYS215.png)
