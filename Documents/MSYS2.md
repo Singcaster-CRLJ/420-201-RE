@@ -9,10 +9,25 @@ Téléchargez et exécutez le [programme d'installation](https://www.msys2.org/)
 ## Installation
 
 ![1](Images/MSYS201.png)
+
+Cliquez sur le bouton « Suivant »:
+
 ![2](Images/MSYS202.png)
+
+Cliquez sur le bouton « Suivant »:
+
 ![3](Images/MSYS203.png)
+
+Cliquez sur le bouton « Suivant »:
+
 ![4](Images/MSYS204.png)
+
+Veuillez patienter:
+
 ![5](Images/MSYS205.png)
+
+Cliquez sur le bouton « Terminer »:
+
 ![6](Images/MSYS206.png)
 
 ### Mise à jour
