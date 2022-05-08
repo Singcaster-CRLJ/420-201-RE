@@ -4,7 +4,7 @@
 
 # Guides
 
-Guides d'installations relatives au cours:
+Guides d'installations relatifs au cours:
 
 - [MSYS2](Documents/MSYS2.md)
 - [Visual Studio Code](Documents/VSCode.md)
@@ -13,5 +13,4 @@ Guides d'installations relatives au cours:
 
 Références relatives au cours:
 
-- [C](Documents/C.md)
 - [Normes](Documents/Norms.md)
