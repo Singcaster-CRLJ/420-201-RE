@@ -83,3 +83,27 @@ Appuyez sur la touche « Entrée (Enter) »:
 Appuyez sur la touche « Entrée (Enter) »:
 
 ![15](Images/MSYS215.png)
+
+### Configuration
+
+Pour que Windows connaisse les outils de développement, ouvrez le « Menu Démarrer »:
+
+![16](Images/MSYS216.png)
+
+Saisissez « variable » dans le champ de recherche:
+
+![17](Images/MSYS217.png)
+
+Cliquez sur le meilleur résultat « Modifier les variables d'environnement système »:
+
+![18](Images/MSYS218.png)
+
+Cliquez sur le bouton « Variables d'environnement ... »:
+
+![19](Images/MSYS219.png)
+
+Double-cliquez sur la ligne « Path » des variables système:
+
+![20](Images/MSYS220.png)
+
+Cliquez sur le bouton « Nouveau », saisissez « C:\msys64\mingw64\bin », et cliquez sur tous les boutons « Ok » jusqu'à fermer toutes les fenêtres, puis redémarrez l'ordinateur.
