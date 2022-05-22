@@ -38,4 +38,14 @@ Cliquez sur le bouton « Terminer ».
 
 ### Extensions
 
-...
+Cliquez sur le bouton « Extensions »:
+
+![8](Images/VSCode08.png)
+
+Dans la barre de recherche, saisissez « C++ »:
+
+![9](Images/VSCode09.png)
+
+Sélectionnez « C/C++ Extension Pack » et cliquez sur son bouton « Installer »:
+
+![10](Images/VSCode10.png)
