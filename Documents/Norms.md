@@ -30,7 +30,7 @@ Les identificateurs de structure doivent aussi utiliser la casse de chameau, mai
 
 # Indentation
 
-Il doit y avoir une indentation suite aux accolades ouvrantes, aux modificateurs d'accès, aux if, aux else, aux while, aux for et aux case:
+Les indentations doivent être de 2 espaces suite aux accolades ouvrantes, aux modificateurs d'accès, aux if, aux else, aux while, aux for et aux case:
 
 ![Indentation](Images/ClassNorm.png)
 
@@ -54,15 +54,9 @@ Quelques pléonasmes de programmeur à éviter:
 
 *Puisqu'une proposition est toujours de type booléen.*
 
-## Structure répétitive
-
-![Pléonasme](Images/Pleonasme4.png)
-
-*Puisque le nombre d'itérations est connu et qu'il est préférable d'avoir une variable locale à la structure répétitive.*
-
 # Aération
 
-Les gros morceaux de code doivent être séparés en paragraphes afin d'être plus agréables à lire.
+Les gros morceaux de code doivent être séparés en paragraphes, avec un seul saut de ligne entre chacun, afin d'être plus agréables à lire.
 
 Tous les opérateurs, outre les opérateurs unaires, doivent être précédés et suivis d'un espace.
 
