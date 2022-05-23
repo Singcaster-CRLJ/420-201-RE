@@ -1,4 +1,4 @@
-Le code source devra être documenté dans toutes les remises.
+Le code source doit être documenté dans toutes les remises.
 
 # Fichiers
 
@@ -14,12 +14,12 @@ Les déclarations de classe doivent être documentées:
 
 ### Données membres
 
-Toutes les données membres doivent être documentées:
+Toutes les déclarations de donnée membre doivent être documentées:
 
 ![Données membres](Images/DataDoxy.png)
 
 ### Méthodes
 
-Les méthodes doivent être documentées:
+Les déclarations de méthode doivent être documentées:
 
 ![Méthodes](Images/MethodDoxy.png)

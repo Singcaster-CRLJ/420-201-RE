@@ -1,4 +1,4 @@
-Les normes de programmation ci-dessous doivent être respectées dans toutes les remises.
+Les normes de programmation doivent être respectées dans toutes les remises.
 
 # Inclusions
 
