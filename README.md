@@ -22,4 +22,4 @@ Fichiers relatifs aux cours:
 
 - [Projet Visual Studio Code en Langage C](Documents/Files/VSCodeCProject.zip)
 - [Projet Visual Studio Code en Langage C++](Documents/Files/VSCodeCPPProject.zip)
-- [Projet Visual Studio Code en Langage C++ avec SDL2](Documents/Files/VSCodeCPPProject.zip)
+- [Projet Visual Studio Code en Langage C++ avec SDL2](Documents/Files/VSCodeSDL2Project.zip)
