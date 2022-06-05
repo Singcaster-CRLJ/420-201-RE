@@ -4,32 +4,32 @@ Logique classique utilisée en programmation pour les propositions et l'algèbre
 
 | A | ¬A |
 |:-:|:--:|
-| F | V  |
-| V | F  |
+| Faux | Vrai  |
+| Vrai | Faux  |
 
 # Et
 
 | A | B |A ^ B|
 |:-:|:-:|:---:|
-| F | F |  F  |
-| F | V |  F  |
-| V | F |  F  |
-| V | V |  V  |
+| Faux | Faux |  Faux  |
+| Faux | Vrai |  Faux  |
+| Vrai | Faux |  Faux  |
+| Vrai | Vrai |  Vrai  |
 
 # Ou
 
 | A | B |A v B|
 |:-:|:-:|:---:|
-| F | F |  F  |
-| F | V |  V  |
-| V | F |  V  |
-| V | V |  V  |
+| Faux | Faux |  Faux  |
+| Faux | Vrai |  Vrai  |
+| Vrai | Faux |  Vrai  |
+| Vrai | Vrai |  Vrai  |
 
 # Ou exclusif
 
 | A | B |A ⊕ B|
 |:-:|:-:|:----:|
-| F | F |  F   |
-| F | V |  V   |
-| V | F |  V   |
-| V | V |  F   |
+| Faux | Faux |  Faux   |
+| Faux | Vrai |  Vrai   |
+| Vrai | Faux |  Vrai   |
+| Vrai | Vrai |  Faux   |
