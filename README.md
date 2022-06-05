@@ -16,6 +16,7 @@ Références relatives aux cours:
 - [Normes de Programmation](Documents/Norms.md)
 - [Documentation du Code Source](Documents/Doxygen.md)
 - [Tables de vérité](Documents/TruthTables.md)
+- [Tables ASCII](Documents/ASCII.md)
 
 # Fichiers
 
