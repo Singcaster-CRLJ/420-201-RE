@@ -18,6 +18,10 @@ Références relatives aux cours:
 - [Tables de vérité](Documents/TruthTables.md)
 - [Tables ASCII](Documents/ASCII.md)
 
+Références relatives au langage de programmation C:
+
+- [Historique](Documents/CHistory.md)
+
 # Fichiers
 
 Fichiers relatifs aux cours:
