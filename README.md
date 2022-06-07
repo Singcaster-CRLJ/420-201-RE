@@ -4,27 +4,27 @@
 
 # Guides
 
-Guides d'installations relatifs aux cours:
+Guides d'installations relatifs au cours:
 
 - [MSYS2, Outils de Développement, et Librairies Graphiques](Documents/MSYS2.md)
 - [Visual Studio Code et Extensions](Documents/VSCode.md)
 
 # Références
 
-Références relatives aux cours:
+Références relatives au cours:
 
 - [Normes de Programmation](Documents/Norms.md)
 - [Documentation du Code Source](Documents/Doxygen.md)
 - [Tables de vérité](Documents/TruthTables.md)
 - [Tables ASCII](Documents/ASCII.md)
 
-Références relatives au langage de programmation C:
+Références relatives au langage de programmation:
 
-- [Historique](Documents/CHistory.md)
+- [Langage C](Documents/CHistory.md)
 
 # Fichiers
 
-Fichiers relatifs aux cours:
+Fichiers relatifs au cours:
 
 - [Projet Visual Studio Code en Langage C](Documents/Files/VSCodeCProject.zip)
 - [Projet Visual Studio Code en Langage C++](Documents/Files/VSCodeCPPProject.zip)
