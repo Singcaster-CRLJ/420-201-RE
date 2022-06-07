@@ -15,17 +15,12 @@ Références relatives au cours:
 
 - [Normes de Programmation](Documents/Norms.md)
 - [Documentation du Code Source](Documents/Doxygen.md)
-- [Tables de vérité](Documents/TruthTables.md)
+- [Tables de Vérité](Documents/TruthTables.md)
 - [Tables ASCII](Documents/ASCII.md)
-
-Références relatives au langage de programmation:
-
-- [Langage C](Documents/CHistory.md)
+- [Langage C](Documents/C.md)
 
 # Fichiers
 
-Fichiers relatifs au cours:
+Fichier relatif au cours:
 
 - [Projet Visual Studio Code en Langage C](Documents/Files/VSCodeCProject.zip)
-- [Projet Visual Studio Code en Langage C++](Documents/Files/VSCodeCPPProject.zip)
-- [Projet Visual Studio Code en Langage C++ avec SDL2](Documents/Files/VSCodeSDL2Project.zip)

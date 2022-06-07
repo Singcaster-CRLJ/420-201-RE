@@ -6,7 +6,7 @@ En 1969, dans les laboratoires de Bell, Ken Thompson développe un système d'ex
 
 Développé en Assembleur, le système d'exploitation devient difficile à maintenir et à faire évoluer. Thompson, ne trouvant pas d'alternatives existantes viables, conçut, avec l'aide de Denis Ritchie, le langage B. Mais celui-ci n'aboutit pas convenablement pour la réécriture du système UNIX. En 1971, Denis Ritchie entreprit donc de faire évoluer le langage B, pour devenir le langage C.
 
-![Denis Ritchie et Ken Thompson](Images/CHistory.jpg)
+![Denis Ritchie et Ken Thompson](Images/CHistory.png)
 
 AT\&T, principal commanditaire des laboratoires Bell, oeuvrait dans le domaine des systèmes téléphoniques et, à l'époque, une loi lui interdisait de commercialiser autre chose. Ainsi, en 1975, le système d'exploitation UNIX complet, incluant son code source, fut distribué dans les universités à des fins éducatives.
 
