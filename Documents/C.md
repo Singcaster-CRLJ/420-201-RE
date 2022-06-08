@@ -27,3 +27,7 @@ Le code source d'un programme en langage C est stocké dans des fichiers textes 
 Tout ce qui suit les caractères « // » sur une ligne est ignoré lors de la compilation:
 
 ![Commentaire](Images/CComment.png)
+
+Tout ce qui est encadré des balises « /* » et « */ » est aussi ignoré lors de la compilation:
+
+![Commentaire](Images/CTagComment.png)
