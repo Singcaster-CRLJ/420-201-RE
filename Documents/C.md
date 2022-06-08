@@ -1,6 +1,6 @@
 Langage de programmation structuré, mais de bas niveaux, permettant de manipuler dynamiquement les espaces mémoire avec des pointeurs, offrant des types primitifs, et très performant grâce à une implémentation de ses compilateurs près du processeur.
 
-# Historique #
+# Historique
 
 En 1969, dans les laboratoires de Bell, Ken Thompson développe un système d'exploitation qui deviendra le très célèbre UNIX.
 
@@ -11,3 +11,17 @@ Développé en Assembleur, le système d'exploitation devient difficile à maint
 AT\&T, principal commanditaire des laboratoires Bell, oeuvrait dans le domaine des systèmes téléphoniques et, à l'époque, une loi lui interdisait de commercialiser autre chose. Ainsi, en 1975, le système d'exploitation UNIX complet, incluant son code source, fut distribué dans les universités à des fins éducatives.
 
 C'est ainsi que le langage C devint l'un des plus utilisés dans le domaine des technologies de l'information.
+
+# Compilateur
+
+...
+
+# Sources
+
+Le code source d'un programme en langage C est stocké dans des fichiers textes ayant, habituellement, « .c » comme extension.
+
+## Commentaires
+
+Tout ce qui suit les caractères « // » sur une ligne est ignoré par le compilateur:
+
+![Commentaire](Images/CComment.png)
