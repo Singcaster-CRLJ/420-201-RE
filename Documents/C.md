@@ -14,7 +14,7 @@ C'est ainsi que le langage C devint l'un des plus utilisés dans le domaine des 
 
 # Compilation
 
-Le code source, écrit avec un langage de programmation, n'est pas compréhenssible par une machine. Celui-ci doit être traduit, ce que l'on nomme la compilation, afin de créer un programme pouvant être exécuté par un ordinateur:
+Le code source, écrit avec un langage de programmation, n'est pas compréhensible par une machine. Celui-ci doit être traduit, ce que l'on nomme « compilation », afin de créer un programme pouvant être exécuté par un ordinateur:
 
 ![Compilation](Images/CCompilation.png)
 
@@ -24,6 +24,6 @@ Le code source d'un programme en langage C est stocké dans des fichiers textes 
 
 ## Commentaires
 
-Tout ce qui suit les caractères « // » sur une ligne est ignoré par le compilateur:
+Tout ce qui suit les caractères « // » sur une ligne est ignoré lors de la compilation:
 
 ![Commentaire](Images/CComment.png)
