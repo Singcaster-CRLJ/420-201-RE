@@ -31,3 +31,9 @@ Tout ce qui suit les caractères « // » sur une ligne est ignoré lors de la c
 Tout ce qui est encadré des balises « /* » et « */ » est aussi ignoré lors de la compilation:
 
 ![Commentaire](Images/CTagComment.png)
+
+## Blocs
+
+Un bloc de code est initié par une accolade ouvrante et terminé par une accolade fermante:
+
+![Bloc](Images/CCodeBlock.png)
