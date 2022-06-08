@@ -12,9 +12,11 @@ AT\&T, principal commanditaire des laboratoires Bell, oeuvrait dans le domaine d
 
 C'est ainsi que le langage C devint l'un des plus utilisés dans le domaine des technologies de l'information.
 
-# Compilateur
+# Compilation
 
-...
+Le code source, écrit avec un langage de programmation, n'est pas compréhenssible par une machine. Celui-ci doit être traduit, ce que l'on nomme la compilation, afin de créer un programme pouvant être exécuté par un ordinateur:
+
+![Compilation](Images/CCompilation.png)
 
 # Sources
 
