@@ -68,8 +68,6 @@ Il est possible de préciser, pour les types entiers, que les valeurs peuvent qu
 
 L'identificateur de certains types n'est parfois pas assez révélateur au niveau du type de donnée et de sa taille. Il est possible de créer des alias de ces types:
 
-```c
-typedef char byte;
-```
+![Définition de type](Images/CTypedef.png)
 
 *Même s'il s'agit du même type de données, la taille est plus claire, et il est plus simple de différencier les valeurs entières (en utilisant « byte ») des valeurs caractères (en utilisant « char »).*
