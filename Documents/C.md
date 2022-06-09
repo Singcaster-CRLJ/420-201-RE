@@ -40,11 +40,11 @@ Un bloc de code est initié par une accolade ouvrante et terminé par une accola
 
 # Données
 
-En informatique, c'est le système binaire qui est utilisé pour représenter les données. Il n'est donc pas possible de différencier ces données, puisque tout est un amas de 0 et de 1.
+En informatique, c'est le système binaire qui est utilisé pour représenter toutes les données. Il est donc difficile de différencier les valeurs, puisque tout est un amas de 0 et de 1.
 
 ## Types
 
-Le langage C offre quelques types primitifs afin de préciser le type des données ainsi que leur plage de valeurs:
+Le langage C offre quelques types primitifs pour représenter les valeurs:
 
 |Type  |Langage C|Taille  |Littéral           |
 |------|---------|--------|-------------------|
@@ -68,6 +68,6 @@ Il est possible de préciser, pour les types entiers, que les valeurs peuvent qu
 
 L'identificateur de certains types n'est parfois pas assez révélateur au niveau du type de donnée et de sa taille. Il est possible de créer des alias de ces types:
 
-![Définition de type](Images/CTypedef.png)
+![Définition de type](Images/CTypeDef.png)
 
 *Même s'il s'agit du même type de données, la taille est plus claire, et il est plus simple de différencier les valeurs entières (en utilisant « byte ») des valeurs caractères (en utilisant « char »).*
