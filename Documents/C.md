@@ -71,3 +71,19 @@ L'identificateur de certains types n'est parfois pas assez révélateur au nivea
 ![Définition de type](Images/CTypeDef.png)
 
 *Même s'il s'agit du même type de données, la taille est plus claire, et il est plus simple de différencier les valeurs entières (en utilisant « byte ») des valeurs caractères (en utilisant « char »).*
+
+# Variables #
+
+Les variables représentent des espaces, en mémoire centrale, afin de pouvoir y stocker et y consulter des données.
+
+## Identificateurs
+
+Plutôt que d'utiliser les adresses physiques de la mémoire centrale d'un ordinateur pour accéder aux données, il est possible de « nommer » les variables à l'aide d'un identificateur. Mais quelques contraintes s'appliquent à la composition de ceux-ci:
+
+- Doivent débuter par une lettre ou le caractère '_'.
+- Doivent contenir que des lettres, des chiffres, et des caractères '_'.
+- Doivent être différents des mots-clés du langage C.
+
+## Déclarations
+
+...
