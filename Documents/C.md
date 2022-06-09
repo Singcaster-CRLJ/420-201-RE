@@ -87,3 +87,65 @@ Plutôt que d'utiliser les adresses physiques de la mémoire centrale d'un ordin
 ## Déclarations
 
 ...
+
+# Point d'entré
+
+La procédure, ou fonction, identifiée « main » est le point d'entré d'un programme en langage C:
+
+```C
+///\brief Procédure principale.
+void main() {
+  // Instructions de la procédure principale.
+}
+```
+
+La fonction principale permet de retourner une valeur entière au système d'exploitation:
+
+```C
+///\brief Fonction principale.
+int main() {
+  // Instructions de la fonction principale.
+
+  return 0;
+}
+```
+
+La fonction principale peut aussi avoir des paramètre afin de reçevoir des arguments:
+
+```C
+///\brief Fonction principale
+///\param argc Nombre d'arguments
+///\param argv Arguments
+int main(int argc, char* argv[]) {
+  // Instructions de la fonction principale.
+
+  return 0;
+}
+```
+
+# Macros
+
+Ces instructions sont toutes précédées du caractère « # » et sont exécutées avant la compilation.
+
+## Définitions
+
+Sert régulièrement à déclarer des constantes, et agit comme un « rechercher-remplacer »:
+
+```c
+#define false 0
+#define true 1
+```
+
+Ainsi, tous les termes « false » seront remplacés par 0 et tous les termes « true » seront remplacés par 1, avant la compilation.
+
+## Inclusions
+
+Agit comme un « copier-coller »:
+
+```c
+#include <stdbool.h>
+```
+
+Ainsi, le code nécessaire sera copié du fichier « stdbool.h » et collé à l'endroit du « #include » avant la compilation.
+
+*Par exemple, pour utiliser des variables booléennes dans un projet, il faut définir le type (typedef) « bool », et définir (#define) les constantes « false » et « true ». Ces définitions ont plutôt été placées dans un fichier d'en-tête « stdbool.h », permettant ainsi de seulement l'inclure (#include) dans les projets nécessitant l'utilisation de booléens.*
