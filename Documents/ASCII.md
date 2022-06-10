@@ -1,4 +1,8 @@
+Dans les années 1950, en raison des nombreuses nouvelles technologies de communication émergentes, l'institut national américain des standards (ANSI) cherche à créer un code de caractères standard.
+
 # ASCII
+
+Le développement débute en 1960, elle est présenté en 1963, et elle est complété en 1968:
 
 |Valeur |Caractère|Valeur |Caractère|Valeur |Caractère|Valeur |Caractère|
 |------:|:---:|------:|:-------:|------:|:-------:|------:|:-------:|
@@ -37,7 +41,9 @@
 
 ## Étendue
 
-|Valeur |Caractère|Valeur |Caractère|Valeur |Caractère|Valeur |Caractère|
+L'octet étant l'unité de base en informatique, un bit restait inutilisé pour chacun des codes de la table ASCII, ce qui permit de l'étendre:
+
+|Valeur |Caractère|Valeur|Caractère|Valeur|Caractère|Valeur|Caractère|
 |------:|-----|------:|---------|------:|----------|------:|---------|
 |**128**|'Ç'  |**160**|'á'       |**192**|'└'      |**224**|'α'      |
 |**129**|'ü'  |**161**|'í'       |**193**|'┴'      |**225**|'ß'      |
