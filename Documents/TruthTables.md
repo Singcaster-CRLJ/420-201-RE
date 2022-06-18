@@ -2,12 +2,16 @@ Logique classique utilisée en programmation pour les propositions et l'algèbre
 
 # Négation
 
+Permet d'inverser la valeur, donc vrai devient faux, et faux devient vrai:
+
 | A | ¬A |
 |:-:|:--:|
 | Faux | Vrai  |
 | Vrai | Faux  |
 
 # Et
+
+Vrai si, et seulement si, les deux valeurs sont vraies:
 
 | A | B |A ^ B|
 |:-:|:-:|:---:|
@@ -18,6 +22,8 @@ Logique classique utilisée en programmation pour les propositions et l'algèbre
 
 # Ou
 
+Vrai si au moins une des deux valeurs est vraie:
+
 | A | B |A v B|
 |:-:|:-:|:---:|
 | Faux | Faux |  Faux  |
@@ -26,6 +32,8 @@ Logique classique utilisée en programmation pour les propositions et l'algèbre
 | Vrai | Vrai |  Vrai  |
 
 # Ou exclusif
+
+Vrai si, et seulement si, l'une des deux valeurs est vraie:
 
 | A | B |A ⊕ B|
 |:-:|:-:|:----:|
