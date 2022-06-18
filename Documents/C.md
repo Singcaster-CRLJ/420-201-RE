@@ -86,7 +86,9 @@ Plutôt que d'utiliser les adresses physiques de la mémoire centrale d'un ordin
 
 ## Déclarations
 
-...
+Le diagramme syntaxique ci-dessous expose toutes les possibilités de syntaxe afin de déclarer et initialiser des variables de même type:
+
+![Diagramme syntaxique](Images/CVariableRailroad.png)
 
 # Point d'entré
 
