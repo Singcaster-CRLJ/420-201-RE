@@ -11,7 +11,7 @@ Permet d'inverser la valeur, donc vrai devient faux, et faux devient vrai:
 
 # Et
 
-Vrai si, et seulement si, les deux valeurs sont vraies:
+Vrai si les deux valeurs sont vraies:
 
 | A | B |A ^ B|
 |:-:|:-:|:---:|
@@ -33,7 +33,7 @@ Vrai si au moins une des deux valeurs est vraie:
 
 # Ou exclusif
 
-Vrai si, et seulement si, l'une des deux valeurs est vraie:
+Vrai si seulement l'une des deux valeurs est vraie:
 
 | A | B |A ⊕ B|
 |:-:|:-:|:----:|
