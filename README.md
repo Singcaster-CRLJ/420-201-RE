@@ -13,11 +13,11 @@ Guides d'installations relatifs au cours:
 
 Références relatives au cours:
 
-- [Normes de Programmation](Documents/Norms.md)
-- [Documentation du Code Source](Documents/Doxygen.md)
 - [Algèbre Booléenne](Documents/BooleanAlgebra.md)
 - [Tables ASCII](Documents/ASCII.md)
 - [Langage C](Documents/C.md)
+- [Normes de Programmation](Documents/Norms.md)
+- [Documentation du Code Source](Documents/Doxygen.md)
 
 # Fichiers
 
