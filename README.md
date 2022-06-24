@@ -15,7 +15,7 @@ Références relatives au cours:
 
 - [Normes de Programmation](Documents/Norms.md)
 - [Documentation du Code Source](Documents/Doxygen.md)
-- [Tables de Vérité](Documents/TruthTables.md)
+- [Algèbre Booléenne](Documents/BooleanAlgebra.md)
 - [Tables ASCII](Documents/ASCII.md)
 - [Langage C](Documents/C.md)
 
