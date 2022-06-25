@@ -156,3 +156,32 @@ Liste, non exhaustive, des opérateurs du langage C:
 |11      |&&       |Et logique           |![Gauche à droite](Images/RightArrow.png)|
 |12      |\|\|     |Ou logique           |![Gauche à droite](Images/RightArrow.png)|
 |14      |=        |Affectation          |![Droite à gauche](Images/LeftArrow.png) |
+
+# Structures de contrôle
+
+...
+
+## Si
+
+...
+
+![Si](Images/ControlStructure.png)
+
+## Commutateur
+
+...
+
+# Structures de répétition
+
+...
+
+## Tant que
+
+...
+
+![Tant que](Images/LoopStructure.png)
+
+## Pour
+
+...
+
