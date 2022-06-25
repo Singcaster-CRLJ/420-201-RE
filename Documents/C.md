@@ -47,7 +47,7 @@ En informatique, c'est le système binaire qui est utilisé pour représenter to
 Le langage C offre quelques types primitifs pour représenter les valeurs:
 
 |Type  |Langage C|Taille  |Littéral           |
-|------|---------|--------|-------------------|
+|:-----|:--------|:-------|:------------------|
 |Entier|char     |1 octet |42 ou '*'          |
 |      |short    |2 octets|32767              |
 |      |int      |4 octets|2147483647         |
@@ -58,7 +58,7 @@ Le langage C offre quelques types primitifs pour représenter les valeurs:
 Il est possible de préciser, pour les types entiers, que les valeurs peuvent qu'être positives, permettant de représenter de plus grandes valeurs:
 
 |Langage C     |Taille  |Litéral             |
-|--------------|--------|--------------------|
+|:-------------|:-------|:-------------------|
 |unsigned char |1 octet |255                 |
 |unsigned short|2 octets|65534               |
 |unsigned int  |4 octets|4294967294          |
@@ -132,47 +132,27 @@ Ainsi, le code nécessaire sera copié du fichier « stdbool.h » et collé à l
 
 ## Priorités
 
-...
+Liste, non exhaustive, des opérateurs du langage C:
 
-|Priorité|Opérateurs       |Résolution     |
-|:------:|-----------------|---------------|
-|1       |() [] -> .       |Gauche à droite|
-|2       |! ~ ++ -- + - * &|Droite à gauche|
-|3       |* / %            |Gauche à droite|
-|4       |+ -              |Gauche à droite|
-|5       |<< >>            |Gauche à droite|
-|6       |< <= > >=        |Gauche à droite|
-|7       |== !=            |Gauche à droite|
-|8       |&                |Gauche à droite|
-|9       |^                |Gauche à droite|
-|10      |\|               |Gauche à droite|
-|11      |&&               |Gauche à droite|
-|12      |\|\|             |Gauche à droite|
-
-## Arithmétiques
-
-...
-
-### Unaires
-
-...
-
-### Binaires
-
-...
-
-## Relationnels
-
-...
-
-## Logiques
-
-...
-
-### Unaire
-
-...
-
-### Binaires
-
-...
+|Priorité|Opérateur|Description          |Évaluation                               |
+|:------:|:-------:|:--------------------|:---------------------------------------:|
+|1       |()       |Parenthèses          |![Gauche à droite](Images/RightArrow.png)|
+|1       |[]       |Crochets             |![Gauche à droite](Images/RightArrow.png)|
+|2       |!        |Négation logique     |![Droite à gauche](Images/LeftArrow.png) |
+|2       |-        |Négation arithmétique|![Droite à gauche](Images/LeftArrow.png) |
+|2       |--       |Décrémentation       |![Droite à gauche](Images/LeftArrow.png) |
+|2       |++       |Incrémentation       |![Droite à gauche](Images/LeftArrow.png) |
+|3       |*        |Multiplication       |![Gauche à droite](Images/RightArrow.png)|
+|3       |/        |Division             |![Gauche à droite](Images/RightArrow.png)|
+|3       |%        |Modulo               |![Gauche à droite](Images/RightArrow.png)|
+|4       |+        |Addition             |![Gauche à droite](Images/RightArrow.png)|
+|4       |-        |Soustraction         |![Gauche à droite](Images/RightArrow.png)|
+|6       |<        |Plus petit           |![Gauche à droite](Images/RightArrow.png)|
+|6       |<=       |Plus petit ou égal   |![Gauche à droite](Images/RightArrow.png)|
+|6       |>        |Plus grand           |![Gauche à droite](Images/RightArrow.png)|
+|6       |>=       |Plus grand ou égal   |![Gauche à droite](Images/RightArrow.png)|
+|7       |==       |Égal                 |![Gauche à droite](Images/RightArrow.png)|
+|7       |!=       |Différent            |![Gauche à droite](Images/RightArrow.png)|
+|11      |&&       |Et logique           |![Gauche à droite](Images/RightArrow.png)|
+|12      |\|\|     |Ou logique           |![Gauche à droite](Images/RightArrow.png)|
+|14      |=        |Affectation          |![Droite à gauche](Images/LeftArrow.png) |
