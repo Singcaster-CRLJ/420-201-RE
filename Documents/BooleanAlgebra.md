@@ -2,14 +2,14 @@ Au 19e siècle, l'anglais George Boole cherche une façon d'utiliser la rigueur 
 
 Au milieu des années 1930, Claude Shannon prouve qu'il serait possible d'implémenter toutes expressions algébriques booléennes à l'aide de l'électronique. Cette découverte devint la fondation mathématique de l'informatique.
 
-# Opérateurs
+# Opérations
 
 Les principales opérations de l'algèbre booléenne sont la négation, la conjonction, et la disjonction.
 
 ## Priorités
 
-|Priorité|Opérateur  |
-|:------:|:---------:|
+|Priorité|Opération  |
+|:------:|:----------|
 |1       |Négation   |
 |2       |Conjonction|
 |3       |Disjonction|
