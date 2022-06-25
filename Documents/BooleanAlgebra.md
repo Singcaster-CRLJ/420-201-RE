@@ -4,62 +4,77 @@ Au milieu des années 1930, Claude Shannon prouve qu'il serait possible d'implé
 
 # Opérateurs
 
-...
+Les principales opérations de l'algèbre booléenne sont la négation, la conjonction, et la disjonction.
 
 ## Priorités
 
-|Priorité|Opérateur|
-|:------:|:-------:|
-|1       |Négation |
-|2       |Et       |
-|3       |Ou       |
+|Priorité|Opérateur  |
+|:------:|:---------:|
+|1       |Négation   |
+|2       |Conjonction|
+|3       |Disjonction|
 
 ## Négation
 
-Permet d'inverser la valeur, donc vrai devient faux, et faux devient vrai:
+Inverse la valeur, donc vrai devient faux, et faux devient vrai:
 
-| A | ¬A |
-|:-:|:--:|
-| Faux | Vrai  |
-| Vrai | Faux  |
+|X   |¬X  |
+|:--:|:--:|
+|Faux|Vrai|
+|Vrai|Faux|
 
-## Et
+## Conjonction
 
 Vrai si, et seulement si, les deux valeurs sont vraies:
 
-| A | B |A ^ B|
+| X | Y |X ^ Y|
 |:-:|:-:|:---:|
 | Faux | Faux |  Faux  |
 | Faux | Vrai |  Faux  |
 | Vrai | Faux |  Faux  |
 | Vrai | Vrai |  Vrai  |
 
-## Ou
+## Disjonction
 
 Vrai si au moins une des deux valeurs est vraie:
 
-| A | B |A v B|
+| X | Y |X v Y|
 |:-:|:-:|:---:|
 | Faux | Faux |  Faux  |
 | Faux | Vrai |  Vrai  |
 | Vrai | Faux |  Vrai  |
 | Vrai | Vrai |  Vrai  |
 
-## Ou exclusif
+## Disjonction exclusive
 
 Vrai si seulement l'une des deux valeurs est vraie:
 
-| A | B |A ⊕ B|
+| X | Y |X ⊕ Y|
 |:-:|:-:|:----:|
 | Faux | Faux |  Faux   |
 | Faux | Vrai |  Vrai   |
 | Vrai | Faux |  Vrai   |
 | Vrai | Vrai |  Faux   |
 
-# Propriétés
+# Expression
+
+...
+
+## Associativité
+
+X ^ (Y ^ Z) = (X ^ Y) ^ Z<br>
+X v (Y v Z) = (X v Y) v Z
+
+## Commutativité
+
+X ^ Y = Y ^ X<br>
+Y v X = Y v X
+
+## Distributivité
 
 ...
 
 ## Loi de Morgan
 
-...
+¬(X ^ Y) = ¬X v ¬Y<br>
+¬(X v Y) = ¬X ^ ¬Y
