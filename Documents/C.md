@@ -86,7 +86,7 @@ Plutôt que d'utiliser les adresses physiques de la mémoire centrale d'un ordin
 
 ## Déclarations
 
-Le diagramme syntaxique ci-dessous expose toutes les possibilités de syntaxe afin de déclarer et initialiser des variables de même type:
+Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer et initialiser des variables de même type:
 
 ![Diagramme syntaxique](Images/CVariableRailroad.png)
 
@@ -159,19 +159,35 @@ Liste, non exhaustive, des opérateurs du langage C:
 
 # Structures de contrôle
 
-...
+Elles permettent de contrôler le flot d'exécution d'un programme.
 
 ## Si
 
-...
+Si une proposition, toujours interprétée comme étant booléenne, est vraie, une ou plusieurs instructions sont exécutées:
 
 ![Si](Images/ControlStructure.png)
+
+Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle:
+
+*[Image]*
+
+### Sinon
+
+...
 
 ## Commutateur
 
 ...
 
+### Défaut
+
+...
+
 ![Commutateur](Images/SwitchStructure.png)
+
+Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle:
+
+*[Image]*
 
 # Structures de répétition
 
@@ -182,6 +198,10 @@ Liste, non exhaustive, des opérateurs du langage C:
 ...
 
 ![Tant que](Images/LoopStructure.png)
+
+Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de répétition:
+
+*[Image]*
 
 ## Pour
 
