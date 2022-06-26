@@ -171,6 +171,8 @@ Liste, non exhaustive, des opérateurs du langage C:
 
 ...
 
+![Commutateur](Images/SwitchStructure.png)
+
 # Structures de répétition
 
 ...
