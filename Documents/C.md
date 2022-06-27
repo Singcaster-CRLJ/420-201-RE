@@ -169,13 +169,13 @@ Si une proposition, toujours interprétée comme étant booléenne, est vraie, u
 
 ![Si](Images/ControlStructure.png)
 
-Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle:
-
-![Commutateur](Images/CIfRailroad.png)
-
 ### Sinon
 
 ...
+
+Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle:
+
+![Commutateur](Images/CElseRailroad.png)
 
 ## Commutateur
 
