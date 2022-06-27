@@ -157,6 +157,8 @@ Liste, non exhaustive, des opérateurs du langage C:
 |12      |\|\|     |Ou logique           |![Gauche à droite](Images/RightArrow.png)|
 |14      |=        |Affectation          |![Droite à gauche](Images/LeftArrow.png) |
 
+*Les opérateurs de priorité 2 sont unaires.*
+
 # Structures de contrôle
 
 Elles permettent de contrôler le flot d'exécution d'un programme.
