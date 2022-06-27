@@ -169,7 +169,7 @@ Si une proposition, toujours interprétée comme étant booléenne, est vraie, u
 
 Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle:
 
-*[Image]*
+![Commutateur](Images/CIfRailroad.png)
 
 ### Sinon
 
@@ -179,11 +179,13 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ...
 
+![Commutateur](Images/SwitchStructure.png)
+
 ### Défaut
 
 ...
 
-![Commutateur](Images/SwitchStructure.png)
+![Commutateur](Images/SwitchDefault.png)
 
 Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle:
 
