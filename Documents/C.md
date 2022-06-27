@@ -171,7 +171,9 @@ Si une proposition, toujours interprétée comme étant booléenne, est vraie, u
 
 ### Sinon
 
-...
+Une ou plusieurs instructions peuvent aussi être exécutées dans le cas ou la proposition est fausse:
+
+![Sinon](Images/CompleteControlStructure.png)
 
 Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle:
 
