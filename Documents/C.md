@@ -169,7 +169,7 @@ Si une proposition, toujours interprétée comme étant booléenne, est vraie, u
 
 ![Si](Images/ControlStructure.png)
 
-Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle:
+Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle en langage C:
 
 ![Commutateur](Images/CIfRailroad.png)
 
@@ -189,7 +189,7 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ![Commutateur](Images/SwitchDefault.png)
 
-Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle:
+Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle en langage C:
 
 *[Image]*
 
@@ -203,9 +203,9 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ![Tant que](Images/LoopStructure.png)
 
-Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de répétition:
+Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de répétition en langage C:
 
-*[Image]*
+![While](Images/CWhileRailroad.png)
 
 ## Pour
 
