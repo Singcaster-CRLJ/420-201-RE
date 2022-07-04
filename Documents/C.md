@@ -189,11 +189,11 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ...
 
-![Commutateur](Images/SwitchDefault.png)
+![Défaut](Images/SwitchDefault.png)
 
 Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de déclarer cette structure de contrôle en langage C:
 
-*[Image]*
+![Commutateur](Images/CSwitchRailroad.png)
 
 # Structures de répétition
 
