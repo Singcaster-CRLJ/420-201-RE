@@ -159,6 +159,18 @@ Liste, non exhaustive, des opérateurs du langage C:
 
 *Les opérateurs de priorité 2 sont unaires.*
 
+## Arithmétiques
+
+Les opérateurs arithmétiques ...
+
+## Relationnels
+
+Les opérateurs relationnels ...
+
+## Logiques
+
+Les opérateurs logiques ...
+
 # Structures de contrôle
 
 Elles permettent de contrôler le flot d'exécution d'un programme.
@@ -197,11 +209,11 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 # Structures de répétition
 
-...
+Elles permettent d'exécuter des instructions à plusieurs reprises.
 
 ## Tant que
 
-...
+Une ou plusieurs instructions sont exécutées tant que la proposition est vraie:
 
 ![Tant que](Images/LoopStructure.png)
 
@@ -213,3 +225,18 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ...
 
+# Entrées et Sorties
+
+...
+
+## Affichage
+
+...
+
+## Saisi
+
+...
+
+## Fichier
+
+...
