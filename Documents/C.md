@@ -126,11 +126,11 @@ Ainsi, le code nécessaire sera copié du fichier « stdbool.h » et collé à l
 
 *Par exemple, pour utiliser des variables booléennes dans un projet, il faut définir le type (typedef) « bool », et définir (#define) les constantes « false » et « true ». Ces définitions ont plutôt été placées dans un fichier d'en-tête « stdbool.h », permettant ainsi de seulement l'inclure (#include) dans les projets nécessitant l'utilisation de booléens.*
 
-# Opérateurs
+# Opération
 
-...
+Une opération comporte des opérandes et des opérateurs.
 
-## Priorités
+## Opérateurs
 
 Liste, non exhaustive, des opérateurs du langage C:
 
@@ -152,8 +152,8 @@ Liste, non exhaustive, des opérateurs du langage C:
 |        |%        |Modulo                          |![Gauche à droite](Images/RightArrow.png)|
 |4       |+        |Addition                        |![Gauche à droite](Images/RightArrow.png)|
 |        |-        |Soustraction                    |![Gauche à droite](Images/RightArrow.png)|
-|5       |<<       |Décalage de bit à gauche        |![Gauche à droite](Images/RightArrow.png)|
-|        |>>       |Décalage de bit à droite        |![Gauche à droite](Images/RightArrow.png)|
+|5       |<<       |Décalage de bits à gauche       |![Gauche à droite](Images/RightArrow.png)|
+|        |>>       |Décalage de bits à droite       |![Gauche à droite](Images/RightArrow.png)|
 |6       |<        |Plus petit                      |![Gauche à droite](Images/RightArrow.png)|
 |        |<=       |Plus petit ou égal              |![Gauche à droite](Images/RightArrow.png)|
 |        |>        |Plus grand                      |![Gauche à droite](Images/RightArrow.png)|
@@ -169,34 +169,6 @@ Liste, non exhaustive, des opérateurs du langage C:
 |15      |,        |Séquence                        |![Gauche à droite](Images/RightArrow.png)|
 
 *Les opérateurs de priorité 2 sont unaires.*
-
-## Arithmétiques
-
-Les opérateurs arithmétiques ...
-
-### Type
-
-...
-
-### Modulo
-
-...
-
-### Incrémentation et Décrémentation
-
-...
-
-## Relationnels
-
-Les opérateurs relationnels ...
-
-## Logiques
-
-Les opérateurs logiques ...
-
-### Bit à bit
-
-...
 
 # Structures de contrôle
 
