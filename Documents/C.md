@@ -134,34 +134,57 @@ Ainsi, le code nécessaire sera copié du fichier « stdbool.h » et collé à l
 
 Liste, non exhaustive, des opérateurs du langage C:
 
-|Priorité|Opérateur|Description          |Évaluation                               |
-|:------:|:-------:|:--------------------|:---------------------------------------:|
-|1       |()       |Parenthèses          |![Gauche à droite](Images/RightArrow.png)|
-|1       |[]       |Crochets             |![Gauche à droite](Images/RightArrow.png)|
-|2       |!        |Négation logique     |![Droite à gauche](Images/LeftArrow.png) |
-|2       |-        |Négation arithmétique|![Droite à gauche](Images/LeftArrow.png) |
-|2       |--       |Décrémentation       |![Droite à gauche](Images/LeftArrow.png) |
-|2       |++       |Incrémentation       |![Droite à gauche](Images/LeftArrow.png) |
-|3       |*        |Multiplication       |![Gauche à droite](Images/RightArrow.png)|
-|3       |/        |Division             |![Gauche à droite](Images/RightArrow.png)|
-|3       |%        |Modulo               |![Gauche à droite](Images/RightArrow.png)|
-|4       |+        |Addition             |![Gauche à droite](Images/RightArrow.png)|
-|4       |-        |Soustraction         |![Gauche à droite](Images/RightArrow.png)|
-|6       |<        |Plus petit           |![Gauche à droite](Images/RightArrow.png)|
-|6       |<=       |Plus petit ou égal   |![Gauche à droite](Images/RightArrow.png)|
-|6       |>        |Plus grand           |![Gauche à droite](Images/RightArrow.png)|
-|6       |>=       |Plus grand ou égal   |![Gauche à droite](Images/RightArrow.png)|
-|7       |==       |Égal                 |![Gauche à droite](Images/RightArrow.png)|
-|7       |!=       |Différent            |![Gauche à droite](Images/RightArrow.png)|
-|11      |&&       |Et logique           |![Gauche à droite](Images/RightArrow.png)|
-|12      |\|\|     |Ou logique           |![Gauche à droite](Images/RightArrow.png)|
-|14      |=        |Affectation          |![Droite à gauche](Images/LeftArrow.png) |
+|Priorité|Opérateur|Description                     |Évaluation                               |
+|:------:|:-------:|:-------------------------------|:---------------------------------------:|
+|1       |()       |Parenthèses                     |![Gauche à droite](Images/RightArrow.png)|
+|        |[]       |Crochets                        |![Gauche à droite](Images/RightArrow.png)|
+|        |.        |Membre de structure             |![Gauche à droite](Images/RightArrow.png)|
+|        |->       |Membre de pointeur de structure |![Gauche à droite](Images/RightArrow.png)|
+|2       |*        |Indirection                     |![Droite à gauche](Images/LeftArrow.png) |
+|        |&        |Déréférencement                 |![Droite à gauche](Images/LeftArrow.png) |
+|        |~        |Négation bit à bit              |![Droite à gauche](Images/LeftArrow.png) |
+|        |!        |Négation logique                |![Droite à gauche](Images/LeftArrow.png) |
+|        |-        |Négation arithmétique           |![Droite à gauche](Images/LeftArrow.png) |
+|        |--       |Décrémentation                  |![Droite à gauche](Images/LeftArrow.png) |
+|        |++       |Incrémentation                  |![Droite à gauche](Images/LeftArrow.png) |
+|3       |*        |Multiplication                  |![Gauche à droite](Images/RightArrow.png)|
+|        |/        |Division                        |![Gauche à droite](Images/RightArrow.png)|
+|        |%        |Modulo                          |![Gauche à droite](Images/RightArrow.png)|
+|4       |+        |Addition                        |![Gauche à droite](Images/RightArrow.png)|
+|        |-        |Soustraction                    |![Gauche à droite](Images/RightArrow.png)|
+|5       |<<       |Décalage de bit à gauche        |![Gauche à droite](Images/RightArrow.png)|
+|        |>>       |Décalage de bit à droite        |![Gauche à droite](Images/RightArrow.png)|
+|6       |<        |Plus petit                      |![Gauche à droite](Images/RightArrow.png)|
+|        |<=       |Plus petit ou égal              |![Gauche à droite](Images/RightArrow.png)|
+|        |>        |Plus grand                      |![Gauche à droite](Images/RightArrow.png)|
+|        |>=       |Plus grand ou égal              |![Gauche à droite](Images/RightArrow.png)|
+|7       |==       |Égal                            |![Gauche à droite](Images/RightArrow.png)|
+|8       |&        |Et bit à bit                    |![Gauche à droite](Images/RightArrow.png)|
+|9       |^        |Ou exclusif bit à bit           |![Gauche à droite](Images/RightArrow.png)|
+|10      |\|       |Ou bit à bit                    |![Gauche à droite](Images/RightArrow.png)|
+|11      |&&       |Et logique                      |![Gauche à droite](Images/RightArrow.png)|
+|12      |\|\|     |Ou logique                      |![Gauche à droite](Images/RightArrow.png)|
+|13      |?:       |Opérateur conditionnel          |![Droite à gauche](Images/LeftArrow.png) |
+|14      |=        |Affectation                     |![Droite à gauche](Images/LeftArrow.png) |
+|15      |,        |Séquence                        |![Gauche à droite](Images/RightArrow.png)|
 
 *Les opérateurs de priorité 2 sont unaires.*
 
 ## Arithmétiques
 
 Les opérateurs arithmétiques ...
+
+### Type
+
+...
+
+### Modulo
+
+...
+
+### Incrémentation et Décrémentation
+
+...
 
 ## Relationnels
 
@@ -170,6 +193,10 @@ Les opérateurs relationnels ...
 ## Logiques
 
 Les opérateurs logiques ...
+
+### Bit à bit
+
+...
 
 # Structures de contrôle
 
