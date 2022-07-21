@@ -239,3 +239,11 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 ## Fichier
 
 ...
+
+### Écriture
+
+...
+
+### Lecture
+
+...
