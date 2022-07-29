@@ -192,7 +192,7 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ## Commutateur
 
-...
+Plutôt qu'une suite de « ... sinon si ... », il est souvent plus simple, et plus efficace, d'utiliser un commutateur.
 
 ![Commutateur](Images/SwitchStructure.png)
 
