@@ -232,18 +232,22 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ...
 
-## Saisi
+### Spécificateurs
 
 ...
+|Spécificateur|Description         |
+|:-----------:|:-------------------|
+|i            |Décimal signé       |
+|u            |Décimal non signé   |
+|f et F       |Réel                |
+|c            |Caractère           |
+|s            |Chaîne de caractères|
+|p            |Pointeur            |
+|o            |Octal               |
+|x et X       |Hexadécimal         |
+|e et E       |Scientifique        |
+|%            |Caractère '%'       |
 
-## Fichier
-
-...
-
-### Écriture
-
-...
-
-### Lecture
+### Précision
 
 ...

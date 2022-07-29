@@ -19,7 +19,7 @@ Références relatives au cours:
 - [Normes de Programmation](Documents/Norms.md)
 - [Documentation du Code Source](Documents/Doxygen.md)
 
-# Fichiers
+# Fichier
 
 Fichier relatif au cours:
 
