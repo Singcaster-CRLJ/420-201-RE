@@ -224,7 +224,7 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ...
 
-# Affichage
+# Affichage formaté
 
 On peut remarquer, sur l'image de l'historique, qu'il n'y a pas de moniteur. Les résultats étaient imprimés!
 
@@ -234,7 +234,7 @@ Malgré l'évolution du langage, le terme utilisé (print) est resté:
 
 ## Format
 
-La lettre « f » à la fin de l'instruction signifie « format » puisque le premier argument comporte le format d'affichage:
+La lettre « f » à la fin de l'instruction signifie « format » puisque le premier argument consiste au format d'affichage:
 
 ![printf](Images/CPrintf.png)
 
