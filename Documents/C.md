@@ -234,11 +234,11 @@ Malgré l'évolution du langage, le terme utilisé (print) est resté:
 
 ## Format
 
-La lettre « f », à la fin de l'instruction, signifie « format » puisqu'il est possible de formater l'affichage:
+La lettre « f » à la fin de l'instruction signifie « format » puisque le premier argument comporte le format d'affichage:
 
 ![printf](Images/CPrintf.png)
 
-*Les spécificateurs sont remplacés, dans le même ordre, par les arguments suivants le format.*
+*Les spécificateurs sont remplacés, dans le même ordre, par les arguments suivants celui du format.*
 
 ### Spécificateurs
 
