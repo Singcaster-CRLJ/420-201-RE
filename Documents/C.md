@@ -234,7 +234,8 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ### Spécificateurs
 
-...
+Pour être reconnus en tant que spécificateur dans le format, ils doivent être précédés du caractère '%':
+
 |Spécificateur|Description         |
 |:-----------:|:-------------------|
 |i            |Décimal signé       |
