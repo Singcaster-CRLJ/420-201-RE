@@ -192,13 +192,13 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ## Commutateur
 
-Plutôt qu'une suite de « ... sinon si ... », il est souvent plus simple, et plus efficace, d'utiliser un commutateur.
+Plutôt qu'une suite de « ... sinon si ... », il est souvent plus simple, et plus efficace, d'utiliser un commutateur:
 
 ![Commutateur](Images/SwitchStructure.png)
 
 ### Défaut
 
-...
+Un cas par défaut peut être déclaré et sera exécuté si aucun autre cas ne correspond:
 
 ![Défaut](Images/SwitchDefault.png)
 
