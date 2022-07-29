@@ -224,13 +224,21 @@ Le diagramme ci-dessous expose toutes les possibilités de syntaxe afin de décl
 
 ...
 
-# Entrées et Sorties
+# Affichage
 
-...
+On peut remarquer, sur l'image de l'historique, qu'il n'y a pas de moniteur. Les résultats étaient imprimés!
 
-## Affichage
+Malgré l'évolution du langage, le terme utilisé (print) est resté:
 
-...
+![printf](Images/CPrint.png)
+
+## Format
+
+La lettre « f », à la fin de l'instruction, signifie « format » puisqu'il est possible de formater l'affichage:
+
+![printf](Images/CPrintf.png)
+
+*Les spécificateurs sont remplacés, dans le même ordre, par les arguments suivants le format.*
 
 ### Spécificateurs
 
